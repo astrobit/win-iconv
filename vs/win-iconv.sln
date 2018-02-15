@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "win-iconv", "project\win-ic
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "win-iconv-installer", "installer\win-iconv-installer.vdproj", "{A26A2BBE-67C0-4B9A-B767-E5BE2AD8A3CF}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "dev-installer", "dev-installer\dev-installer.vdproj", "{88E67156-7295-4066-9AF3-6248035BF6AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -27,6 +29,10 @@ Global
 		{A26A2BBE-67C0-4B9A-B767-E5BE2AD8A3CF}.Debug|x86.ActiveCfg = Debug
 		{A26A2BBE-67C0-4B9A-B767-E5BE2AD8A3CF}.Release|x64.ActiveCfg = Release
 		{A26A2BBE-67C0-4B9A-B767-E5BE2AD8A3CF}.Release|x86.ActiveCfg = Release
+		{88E67156-7295-4066-9AF3-6248035BF6AF}.Debug|x64.ActiveCfg = Debug
+		{88E67156-7295-4066-9AF3-6248035BF6AF}.Debug|x86.ActiveCfg = Debug
+		{88E67156-7295-4066-9AF3-6248035BF6AF}.Release|x64.ActiveCfg = Release
+		{88E67156-7295-4066-9AF3-6248035BF6AF}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
