@@ -114,7 +114,7 @@
         {
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_06F97FE2B06F4C3C858EE5108DA68837"
             {
-            "DefaultLocation" = "8:[System32Folder]"
+            "DefaultLocation" = "8:[System64Folder]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
@@ -660,7 +660,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_6E3D7BE5E32A492FA600493B12E3C0D0"
             {
-            "SourcePath" = "8:..\\x64\\Release\\win-iconv-x64.dll"
+            "SourcePath" = "8:..\\Release\\win-iconv-Win32.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_920A070BAA2A48AB9DD95F928669B8DD"
