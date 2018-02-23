@@ -146,17 +146,6 @@
                 {
                 }
             }
-            "{1525181F-901A-416C-8A58-119130FE478E}:_920A070BAA2A48AB9DD95F928669B8DD"
-            {
-            "Name" = "8:#1914"
-            "AlwaysCreate" = "11:FALSE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Property" = "8:SystemFolder"
-                "Folders"
-                {
-                }
-            }
         }
         "LaunchCondition"
         {
@@ -174,7 +163,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:win-iconv-x64"
         "ProductCode" = "8:{F944534E-BD29-4CAF-A36E-34FD8B7EB52E}"
-        "PackageCode" = "8:{5C37FE58-8B60-4AC8-A116-CDDFA3954968}"
+        "PackageCode" = "8:{DD2110C3-1A3E-4734-9A25-6161A9DD20FE}"
         "UpgradeCode" = "8:{31C706DE-9255-4365-95B7-EF0B8441C91E}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -660,10 +649,10 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_6E3D7BE5E32A492FA600493B12E3C0D0"
             {
-            "SourcePath" = "8:..\\Release\\win-iconv-Win32.dll"
+            "SourcePath" = "8:..\\x64\\Release\\win-iconv-x64.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_920A070BAA2A48AB9DD95F928669B8DD"
+            "Folder" = "8:_06F97FE2B06F4C3C858EE5108DA68837"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
